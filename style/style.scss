@@ -15,4 +15,9 @@ $primary: #001199;
   }
 }
 
+@media (max-width: 600px) {
+  .chess {
+    display: none;
+  }
+}
 
